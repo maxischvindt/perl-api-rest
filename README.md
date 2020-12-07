@@ -58,4 +58,4 @@ The UI has Vue.js. And it does requests to the API Rest using Fetch.
 [1]: https://www.youtube.com/watch?v=eYlCxA1xCLE&list=PLuHGXfTWz_BMzvffPXShwvZxBuv9jAR49
 [2]: https://documenter.getpostman.com/view/8137382/TVCY5rkb    
 [3]: http://localhost:5000
-[4]: http://ec2-3-17-64-92.us-east-2.compute.amazonaws.com:5000/
+[4]: http://13.58.161.188:5000/
