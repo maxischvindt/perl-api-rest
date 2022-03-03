@@ -1,5 +1,5 @@
 # perl-api-rest
-API REST in Perl using Catalyst (Without current experience) - [Demo in aws][4], could be down 😨
+API REST in Perl using Catalyst (Without current experience)  😨
 
 #### Project:
 
@@ -36,7 +36,6 @@ You can install catalyst and dependencies in your system (step 1.0) or use docke
     RUN: docker-compose up -d
         
 #### Step 2 - Test our controller:
-- [Postman template][2]
 
 After run the rest, you can execute the postman request. In the postman folder, there are json files to import requests in your postman or you can download from the previous link.
 
@@ -56,6 +55,3 @@ The UI has Vue.js. And it does requests to the API Rest using Fetch.
 - Improve UI
 
 [1]: https://www.youtube.com/watch?v=eYlCxA1xCLE&list=PLuHGXfTWz_BMzvffPXShwvZxBuv9jAR49
-[2]: https://documenter.getpostman.com/view/8137382/TVCY5rkb    
-[3]: http://localhost:5000
-[4]: http://13.58.161.188:5000/
